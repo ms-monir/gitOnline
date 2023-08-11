@@ -4,12 +4,7 @@ public class Hello {
         greeting("Git")
 
     }
-    public static void greeting(String name) {
-        System.out.println("Hello Hello " + name);
+    public static void sqr(int x) {
+        return x * x;
     }
-
-    public static void add(int a, int b) {
-        return a + b;
-    }
-
 }
