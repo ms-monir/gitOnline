@@ -1,5 +1,5 @@
 this is a simple redme file
 
-Hello redm3e
+Hello redme
 
 Hy there I am using git and git hub
